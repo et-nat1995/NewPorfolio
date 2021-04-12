@@ -1,0 +1,33 @@
+<svg width="128" height="128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" y="-731" x="-539.984" width="727.938" opacity="0" height="1520" fill="#F4F5F5"/>
+  <circle id="svg_3" r="64" fill="#1ba098" cy="64" cx="64"/>
+  <defs>
+   <circle r="64" id="SVGID_31_" cy="64" cx="64"/>
+  </defs>
+  <clipPath id="SVGID_2_">
+   <use id="svg_5" xlink:href="#SVGID_31_"/>
+  </clipPath>
+  <polygon id="svg_6" points="20.161,96.119 52.036,128 128,128 128,52.536 108.115,32.622    " fill="#16827a" clip-path="url(#SVGID_2_)"/>
+  <path id="svg_7" fill="#FFFFFF" d="m104.944,96.947l-81.888,0c-2.209,0 -4,-1.791 -4,-4l0,-57.894c0,-2.209 1.791,-4 4,-4l81.888,0c2.209,0 4,1.791 4,4l0,57.894c0,2.209 -1.791,4 -4,4z"/>
+  <path id="svg_9" fill="#E1E3E9" d="m108.944,42.054l0,-7.001c0,-2.209 -1.791,-4 -4,-4l-81.888,0c-2.209,0 -4,1.791 -4,4l0,7.001l89.888,0z"/>
+  <circle id="svg_10" r="3" fill="#F24B45" cy="36.553" cx="25"/>
+  <circle id="svg_11" r="3" fill="#FFB202" cy="36.553" cx="34"/>
+  <circle id="svg_12" r="3" fill="#4CBB41" cy="36.553" cx="43.001"/>
+  <defs>
+   <path id="SVGID_33_" d="m104.944,96.947l-81.888,0c-2.209,0 -4,-1.791 -4,-4l0,-57.894c0,-2.209 1.791,-4 4,-4l81.888,0c2.209,0 4,1.791 4,4l0,57.894c0,2.209 -1.791,4 -4,4z"/>
+  </defs>
+  <clipPath id="SVGID_4_">
+   <use id="svg_14" xlink:href="#SVGID_33_"/>
+  </clipPath>
+  <polygon id="svg_15" points="30.866,70.855 57.438,97.5 110,97.5 110,79.563      97.134,66.663 84.469,63.719 71.795,51.056 64.376,67.188 53.475,56.3 31.937,68.83    " opacity="0.8" fill="#E1E3E9" clip-path="url(#SVGID_4_)"/>
+  <path id="svg_17" fill="#53899F" d="m30.866,66.804l22.609,-10.504l0,4.993l-17.099,7.49l0,0.094l17.099,7.489l0,4.993l-22.609,-10.504l0,-4.051z"/>
+  <path id="svg_18" fill="#53899F" d="m56.958,85.206l10.08,-34.15l4.758,0l-10.081,34.15l-4.757,0z"/>
+  <path id="svg_19" fill="#53899F" d="m97.134,70.997l-22.609,10.362l0,-4.993l17.475,-7.489l0,-0.094l-17.476,-7.49l0,-4.993l22.609,10.363l0,4.334l0.001,0z"/>
+ </g>
+</svg>
